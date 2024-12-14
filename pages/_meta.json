@@ -2,6 +2,9 @@
   "index": "Introduction",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
+  "konzept": "Konzept",
+  "bericht": "Bericht",
+  "bedienungsanleitung": "Bedienungsanleitung",
   "about": {
     "title": "About",
     "type": "page"
